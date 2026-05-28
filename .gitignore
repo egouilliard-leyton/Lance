@@ -30,3 +30,9 @@ dist/
 # custom ignore
 results/
 downloads/
+
+# gitnexus tooling artifacts (code knowledge-graph index + generated agent context)
+.gitnexus/
+.claude/
+CLAUDE.md
+AGENTS.md
